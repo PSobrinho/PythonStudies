@@ -1,0 +1,11 @@
+﻿name;category;motor;description;location;value;acessorios;opportunity
+LAMBORGHINI AVENTADOR;USADO;Motor 1.8 16v;Ano 1993 - 55.286 km;Belo Horizonte - MG;R$ 338.000;['4 X 4', 'Câmera de estacionamento', 'Controle de tração', 'Sensor de estacionamento'];
+BMW M2;USADO;Motor 3.0 32v;Ano 2018 - 83.447 km;Belo Horizonte - MG;R$ 346.000;['Câmera de estacionamento', 'Controle de estabilidade', 'Travas elétricas', 'Freios ABS'];
+ALFA;USADO;Motor 1.8 16v;Ano 2004 - 19.722 km;Rio de Janeiro - RJ;R$ 480.000;['Central multimídia', 'Bancos de couro', 'Rodas de liga', 'Câmera de estacionamento'];
+PUECH;USADO;Motor Diesel V8;Ano 1992 - 34.335 km;São Paulo - SP;R$ 133.000;['Bancos de couro', 'Freios ABS', 'Rodas de liga', 'Câmbio automático'];
+LAMBORGHINI MURCIELAGO;USADO;Motor 1.0 8v;Ano 1991 - 464 km;Belo Horizonte - MG;R$ 175.000;['Central multimídia', 'Teto panorâmico', 'Sensor crepuscular', 'Piloto automático'];
+ASTON MARTIN;USADO;Motor Diesel V6;Ano 2004 - 50.189 km;Belo Horizonte - MG;R$ 239.000;['Painel digital', 'Controle de tração', 'Teto panorâmico', 'Central multimídia'];OPORTUNIDADE
+TVR;USADO;Motor 4.0 Turbo;Ano 2014 - 17.778 km;Belo Horizonte - MG;R$ 115.000;['4 X 4', 'Teto panorâmico', 'Central multimídia', 'Controle de estabilidade'];
+EXCALIBUR;USADO;Motor 3.0 32v;Ano 2009 - 81.251 km;Rio de Janeiro - RJ;R$ 114.000;['Painel digital', 'Câmbio automático', 'Sensor de chuva', 'Travas elétricas'];
+MCLAREN;NOVO;Motor Diesel;Ano 2019 - 0 km;São Paulo - SP;R$ 75.000;['Central multimídia', 'Câmera de estacionamento', 'Câmbio automático', 'Ar condicionado'];
+TOYOTA;USADO;Motor 4.0 Turbo;Ano 1999 - 12.536 km;São Paulo - SP;R$ 117.000;['Bancos de couro', 'Freios ABS', 'Piloto automático', 'Controle de estabilidade'];OPORTUNIDADE
