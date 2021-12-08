@@ -1,0 +1,22 @@
+CREATE TABLE usedCars (
+	dateCrawled TIMESTAMP,
+	name TEXT,
+	seller VARCHAR,
+	offerType VARCHAR,
+	price FLOAT,
+	abtest VARCHAR,
+	vehicleType VARCHAR,
+	yearOfRegistration INTEGER,
+	gearbox VARCHAR,
+	powerPS FLOAT,
+	model VARCHAR,
+	kilometer FLOAT,
+	monthOfRegistration INTEGER,
+	fuelType VARCHAR,
+	brand VARCHAR,
+	notRepairedDamage VARCHAR,
+	dateCreated TIMESTAMP,
+	nrOfPictures INTEGER,
+	postalCode INTEGER,
+	lastSeen TIMESTAMP
+);
